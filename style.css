@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+.parallax{
+    width: 100%;
+    height: 100%;
+}
+
+.teste{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.teste-camada1{
+    background-image: url(teste.jpg);
+    width: 100%;
+    height: 100%;
+}
